@@ -22,3 +22,7 @@ paths = ["C:/Windows/explorer.exe"]
 profile_name = "Firefox"
 paths = ["C:/Program Files/Mozilla Firefox/firefox.exe"]
 ```
+
+### Tested on & works on:
+Windows 11
+NixOS
