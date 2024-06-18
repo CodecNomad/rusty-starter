@@ -24,5 +24,5 @@ paths = ["C:/Program Files/Mozilla Firefox/firefox.exe"]
 ```
 
 ### Tested on & works on:
-Windows 11
+Windows 11, 
 NixOS
