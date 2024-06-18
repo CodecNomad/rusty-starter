@@ -45,7 +45,7 @@ fn main() {
         }
     });
 
-    println!("Auto exitting in 5s");
+    println!("Auto closing in 5s..");
     sleep(Duration::from_secs(5));
     exit(0);
 }
